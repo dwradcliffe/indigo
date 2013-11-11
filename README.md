@@ -18,9 +18,9 @@ Or install it yourself as:
 
 ## Documentation
 
-[http://rdoc.info/github/dwradcliffe/indigo][documentation]
+[Client Documentation](http://rdoc.info/github/dwradcliffe/indigo)
 
-[documentation]: http://rdoc.info/github/dwradcliffe/indigo
+[API Documentation](http://www.perceptiveautomation.com/wiki/doku.php?id=indigo_s_restful_urls)
 
 ## Contributing
 
