@@ -15,14 +15,14 @@ module Indigo
 
     include Indigo::Devices
 
-    # private
+    private
 
       def get(path)
         request(:get, "#{path}.xml")
       end
 
       def put(path, data={})
-        res = request(:put, path, data.map { |k,v| "#{k}=#{v}" }.join(','))
+        res = request(:put, "#{path}.xml", data.map { |k,v| "#{k}=#{v}" }.join(','))
         res.status == 303
       end
 

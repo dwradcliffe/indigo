@@ -1,0 +1,29 @@
+<device>
+  <name>Lamp</name>
+  <address>2193939</address>
+  <addressStr>21.21.21</addressStr>
+  <brightness>0</brightness>
+  <classID>2</classID>
+  <devProtocol>1</devProtocol>
+  <displayInUI>True</displayInUI>
+  <displayLongState>0%</displayLongState>
+  <displayRawState>0</displayRawState>
+  <hasStateToDisplay>True</hasStateToDisplay>
+  <id>111431308</id>
+  <isOn>False</isOn>
+  <lastChanged>437472001</lastChanged>
+  <lastChangedDateStr>2013-11-11</lastChangedDateStr>
+  <lastChangedRFC3339>2013-11-11T12:00:01Z</lastChangedRFC3339>
+  <lastChangedRFC822>Mon, 11 Nov 2013 12:00:01 GMT</lastChangedRFC822>
+  <lastChangedTimeStr>08:00:01 AM</lastChangedTimeStr>
+  <type>LampLinc (dual-band)</type>
+  <typeFlags>1311</typeFlags>
+  <typeSupportsDim>True</typeSupportsDim>
+  <typeSupportsEnergyMeter>False</typeSupportsEnergyMeter>
+  <typeSupportsHVAC>False</typeSupportsHVAC>
+  <typeSupportsIO>False</typeSupportsIO>
+  <typeSupportsOnOff>True</typeSupportsOnOff>
+  <typeSupportsSpeedControl>False</typeSupportsSpeedControl>
+  <typeSupportsSprinkler>False</typeSupportsSprinkler>
+  <versByte>65</versByte>
+</device>
